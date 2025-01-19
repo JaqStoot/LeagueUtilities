@@ -1,4 +1,4 @@
-package com.jaqstoot.league_utilities;
+package com.jaqstoot.leagueutilities;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
